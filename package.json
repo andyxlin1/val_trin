@@ -36,6 +36,10 @@
     ]
   },
   "devDependencies": {
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.15.10",
+    "react-calendar": "^4.8.0",
     "react-router-dom": "^6.22.0"
   }
 }
